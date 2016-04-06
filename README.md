@@ -1,6 +1,7 @@
 # Synthesize Me
 ## Authors
 - James Gaskin
+
 ## Purpose
 An app that will let you record/sample on the fly and gives playback and manipulation tools.
 ## Features
